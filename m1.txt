@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world - 1
+=======
+hello world - modify in GitHub
+>>>>>>> 5895d2721f44a69d8eb6248b900232143e4fd5dc
